@@ -14,13 +14,17 @@
         "editor.wordWrapColumn": 120
     },
     "cSpell.words": [
+        "acks",
         "amqp",
         "crun",
+        "DELAYMS",
         "findstr",
         "golevelup",
         "initdb",
         "journalctl",
+        "kafkajs",
         "RABBITMQ",
+        "SASL",
         "tzdata",
         "VHOST",
         "vhosts",
